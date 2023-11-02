@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoRecorderAppTest</string>
+    <string name="record_video">Record Video</string>
+    <string name="play_video">Play Video</string>
+</resources>
